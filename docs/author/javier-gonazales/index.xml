@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javier Gonazales | Science Accelerator</title>
+    <link>http://carlhenrik.com/science-accelerator/author/javier-gonazales/</link>
+      <atom:link href="http://carlhenrik.com/science-accelerator/author/javier-gonazales/index.xml" rel="self" type="application/rss+xml" />
+    <description>Javier Gonazales</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 11 Dec 2020 19:20:00 +0100</lastBuildDate>
+    <image>
+      <url>http://carlhenrik.com/science-accelerator/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Javier Gonazales</title>
+      <link>http://carlhenrik.com/science-accelerator/author/javier-gonazales/</link>
+    </image>
+    
+    <item>
+      <title>Causality</title>
+      <link>http://carlhenrik.com/science-accelerator/talk/javiergonzales/</link>
+      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>http://carlhenrik.com/science-accelerator/talk/javiergonzales/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
