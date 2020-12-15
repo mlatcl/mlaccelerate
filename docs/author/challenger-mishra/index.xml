@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Challenger Mishra | Science Accelerator</title>
-    <link>http://carlhenrik.com/science-accelerator/author/challenger-mishra/</link>
-      <atom:link href="http://carlhenrik.com/science-accelerator/author/challenger-mishra/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mlatcl.github.io/mlaccelerate/author/challenger-mishra/</link>
+      <atom:link href="https://mlatcl.github.io/mlaccelerate/author/challenger-mishra/index.xml" rel="self" type="application/rss+xml" />
     <description>Challenger Mishra</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 11 Dec 2020 19:19:48 +0100</lastBuildDate>
     <image>
-      <url>http://carlhenrik.com/science-accelerator/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mlatcl.github.io/mlaccelerate/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Challenger Mishra</title>
-      <link>http://carlhenrik.com/science-accelerator/author/challenger-mishra/</link>
+      <link>https://mlatcl.github.io/mlaccelerate/author/challenger-mishra/</link>
     </image>
     
     <item>
       <title>Baryons from Mesons: A Machine Learning Perspective</title>
-      <link>http://carlhenrik.com/science-accelerator/talk/challengermishra/</link>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>http://carlhenrik.com/science-accelerator/talk/challengermishra/</guid>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</guid>
       <description></description>
     </item>
     

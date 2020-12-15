@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>day1 | Science Accelerator</title>
-    <link>http://carlhenrik.com/science-accelerator/tag/day1/</link>
-      <atom:link href="http://carlhenrik.com/science-accelerator/tag/day1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mlatcl.github.io/mlaccelerate/tag/day1/</link>
+      <atom:link href="https://mlatcl.github.io/mlaccelerate/tag/day1/index.xml" rel="self" type="application/rss+xml" />
     <description>day1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 02 Feb 2020 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://carlhenrik.com/science-accelerator/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mlatcl.github.io/mlaccelerate/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>day1</title>
-      <link>http://carlhenrik.com/science-accelerator/tag/day1/</link>
+      <link>https://mlatcl.github.io/mlaccelerate/tag/day1/</link>
     </image>
     
     <item>
       <title>Accelerate Science</title>
-      <link>http://carlhenrik.com/science-accelerator/talk/jessica/</link>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/jessica/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>http://carlhenrik.com/science-accelerator/talk/jessica/</guid>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/jessica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>http://carlhenrik.com/science-accelerator/talk/neil/</link>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/neil/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>http://carlhenrik.com/science-accelerator/talk/neil/</guid>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/neil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning and the Scientific Principle</title>
-      <link>http://carlhenrik.com/science-accelerator/talk/che/</link>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/che/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>http://carlhenrik.com/science-accelerator/talk/che/</guid>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/che/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Role of Uncertainty in Machine Learning</title>
-      <link>http://carlhenrik.com/science-accelerator/talk/andreasdamianou/</link>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>http://carlhenrik.com/science-accelerator/talk/andreasdamianou/</guid>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</guid>
       <description></description>
     </item>
     

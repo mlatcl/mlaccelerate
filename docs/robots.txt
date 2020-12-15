@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: http://carlhenrik.com/science-accelerator/sitemap.xml
+Sitemap: https://mlatcl.github.io/mlaccelerate/sitemap.xml

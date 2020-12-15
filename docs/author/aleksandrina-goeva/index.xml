@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Science Accelerator</title>
-    <link>https://mlatcl.github.io/mlaccelerate/authors/</link>
-      <atom:link href="https://mlatcl.github.io/mlaccelerate/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
+    <title>Aleksandrina Goeva | Science Accelerator</title>
+    <link>https://mlatcl.github.io/mlaccelerate/author/aleksandrina-goeva/</link>
+      <atom:link href="https://mlatcl.github.io/mlaccelerate/author/aleksandrina-goeva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aleksandrina Goeva</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Tue, 15 Dec 2020 11:50:39 +0100</lastBuildDate>
     <image>
       <url>https://mlatcl.github.io/mlaccelerate/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>https://mlatcl.github.io/mlaccelerate/authors/</link>
+      <title>Aleksandrina Goeva</title>
+      <link>https://mlatcl.github.io/mlaccelerate/author/aleksandrina-goeva/</link>
     </image>
     
   </channel>
