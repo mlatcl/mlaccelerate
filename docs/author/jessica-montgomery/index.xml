@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Accelerate Science</title>
+      <title>AI for scientific discovery: an introduction to Accelerate Science</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/jessica/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/jessica/</guid>
-      <description></description>
+      <description>&lt;p&gt;Machine learning has the potential to become an engine for scientific discovery across disciplines – from predicting the impact of climate change, to using genetic data to create new healthcare treatments, and from finding new astronomical phenomena to identifying new materials here on Earth. Achieving this potential requires interdisciplinary collaborations that combine scientific insights with expertise in machine learning methods, creating machine learning systems that can be applied to ‘real-world’ problems. The Accelerate Programme for Scientific Discovery is a new initiative from Cambridge University’s Department of Computer Science and Technology, which will support researchers across the University to use machine learning to advance their research. This talk will introduce the thinking behind the Programme and its work.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
