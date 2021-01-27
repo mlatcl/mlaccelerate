@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Hierarchical Models</title>
+      <title>Hierarchical models for insightful machine learning</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/markuskaiser/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/markuskaiser/</guid>
-      <description></description>
+      <description>&lt;p&gt;Machine learning is a powerful tool to find explanations for data, but not all explanations are created equal. This talk will explore why collaboration with domain experts is critical for the successful application of machine learning in the industrial and scientific domains. We will focus on the expert-driven formulation and evaluation of hierarchical models and show how to specify what should be learned from data and how to apply the scientific principle to gain new and semantic insights.&lt;/p&gt;
+</description>
     </item>
     
     <item>
