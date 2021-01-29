@@ -37,7 +37,8 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</guid>
-      <description></description>
+      <description>&lt;p&gt;A machine learning model exploits patterns in the training data to generate an abstraction of the application domain. The knowledge stored inside a model is incomplete, since the model is imperfectly designed and the data fed to it are only a small and possibly biased sample of the full data distribution. Therefore, for many applications it is useful to also quantify the &lt;strong&gt;lack of knowledge&lt;/strong&gt; associated with the model. This can help the training of the model itself but it can also transform predictions into probabilistic expectations which can drive more robust decision making. For example, it is very useful to have uncertainty communicated by a machine learning system which analyses patient data to suggest treatments. In this talk, I will discuss the various sources of uncertainty in a modeling scenario, motivate probabilistic methods for quantifying uncertainty, and explain how uncertainty can be used as an essential part of machine learning-assisted reasoning.&lt;/p&gt;
+</description>
     </item>
     
     <item>

@@ -17,7 +17,8 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/alessandratosi/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/alessandratosi/</guid>
-      <description></description>
+      <description>&lt;p&gt;Optimisation techniques are widely used to solve problems across any domain. In this talk we will focus on global optimisation of black-box functions using Bayesian optimisation, an iterative optimisation technique. We will explore how Bayesian optimisation can be used beyond the popular application of fine tuning the parameters of complex machine learning models and data science pipelines.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
