@@ -33,20 +33,20 @@
     </item>
     
     <item>
-      <title>The Role of Uncertainty in Machine Learning</title>
-      <link>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</guid>
-      <description>&lt;p&gt;A machine learning model exploits patterns in the training data to generate an abstraction of the application domain. The knowledge stored inside a model is incomplete, since the model is imperfectly designed and the data fed to it are only a small and possibly biased sample of the full data distribution. Therefore, for many applications it is useful to also quantify the &lt;strong&gt;lack of knowledge&lt;/strong&gt; associated with the model. This can help the training of the model itself but it can also transform predictions into probabilistic expectations which can drive more robust decision making. For example, it is very useful to have uncertainty communicated by a machine learning system which analyses patient data to suggest treatments. In this talk, I will discuss the various sources of uncertainty in a modeling scenario, motivate probabilistic methods for quantifying uncertainty, and explain how uncertainty can be used as an essential part of machine learning-assisted reasoning.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Machine Learning and the Scientific Principle</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/che/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/che/</guid>
       <description>&lt;p&gt;Machine learning is the science of combining knowledge with data through computation. In this talk we will try to make these concepts mathematically stringent. We will first discuss how we can formulate our knowledge mathematically by building models. Importantly differently from logic machine learning is concerned with knowledge that is uncertain often referred to as beliefs. We will show how we can use probabilities as a mean to quantify our beliefs. In the second part of the talk we will see how we can combine our beliefs with observations and recover an updated belief. We will discuss the interplay between data and beliefs this will become important when choosing which machine learning method to use for different scenarios.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Role of Uncertainty in Machine Learning</title>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</link>
+      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</guid>
+      <description>&lt;p&gt;A machine learning model exploits patterns in the training data to generate an abstraction of the application domain. The knowledge stored inside a model is incomplete, since the model is imperfectly designed and the data fed to it are only a small and possibly biased sample of the full data distribution. Therefore, for many applications it is useful to also quantify the &lt;strong&gt;lack of knowledge&lt;/strong&gt; associated with the model. This can help the training of the model itself but it can also transform predictions into probabilistic expectations which can drive more robust decision making. For example, it is very useful to have uncertainty communicated by a machine learning system which analyses patient data to suggest treatments. In this talk, I will discuss the various sources of uncertainty in a modeling scenario, motivate probabilistic methods for quantifying uncertainty, and explain how uncertainty can be used as an essential part of machine learning-assisted reasoning.&lt;/p&gt;
 </description>
     </item>
     

@@ -17,7 +17,8 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</guid>
-      <description></description>
+      <description>&lt;p&gt;Quantum chromodynamics (QCD) is the theory of the strong interaction. The fundamental particles of QCD, quarks and gluons, carry colour charge and form colourless bound states at low energies. The hadronic bound states of primary interest to us are the mesons and the baryons. From knowledge of the meson spectrum, we use neural networks and Gaussian processes to predict the masses of baryons with 90.3% and 96.6% accuracy, respectively. These results compare favourably to the constituent quark model. We as well predict the masses of pentaquarks and other exotic hadrons.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -33,20 +33,20 @@
     </item>
     
     <item>
-      <title>The Role of Uncertainty in Machine Learning</title>
-      <link>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</guid>
-      <description>&lt;p&gt;A machine learning model exploits patterns in the training data to generate an abstraction of the application domain. The knowledge stored inside a model is incomplete, since the model is imperfectly designed and the data fed to it are only a small and possibly biased sample of the full data distribution. Therefore, for many applications it is useful to also quantify the &lt;strong&gt;lack of knowledge&lt;/strong&gt; associated with the model. This can help the training of the model itself but it can also transform predictions into probabilistic expectations which can drive more robust decision making. For example, it is very useful to have uncertainty communicated by a machine learning system which analyses patient data to suggest treatments. In this talk, I will discuss the various sources of uncertainty in a modeling scenario, motivate probabilistic methods for quantifying uncertainty, and explain how uncertainty can be used as an essential part of machine learning-assisted reasoning.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Machine Learning and the Scientific Principle</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/che/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/che/</guid>
       <description>&lt;p&gt;Machine learning is the science of combining knowledge with data through computation. In this talk we will try to make these concepts mathematically stringent. We will first discuss how we can formulate our knowledge mathematically by building models. Importantly differently from logic machine learning is concerned with knowledge that is uncertain often referred to as beliefs. We will show how we can use probabilities as a mean to quantify our beliefs. In the second part of the talk we will see how we can combine our beliefs with observations and recover an updated belief. We will discuss the interplay between data and beliefs this will become important when choosing which machine learning method to use for different scenarios.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Role of Uncertainty in Machine Learning</title>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</link>
+      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</guid>
+      <description>&lt;p&gt;A machine learning model exploits patterns in the training data to generate an abstraction of the application domain. The knowledge stored inside a model is incomplete, since the model is imperfectly designed and the data fed to it are only a small and possibly biased sample of the full data distribution. Therefore, for many applications it is useful to also quantify the &lt;strong&gt;lack of knowledge&lt;/strong&gt; associated with the model. This can help the training of the model itself but it can also transform predictions into probabilistic expectations which can drive more robust decision making. For example, it is very useful to have uncertainty communicated by a machine learning system which analyses patient data to suggest treatments. In this talk, I will discuss the various sources of uncertainty in a modeling scenario, motivate probabilistic methods for quantifying uncertainty, and explain how uncertainty can be used as an essential part of machine learning-assisted reasoning.&lt;/p&gt;
 </description>
     </item>
     
@@ -87,27 +87,21 @@
     </item>
     
     <item>
-      <title>Universes are Big Data: from geometry, to physics, to ML</title>
-      <link>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Baryons from Mesons: A Machine Learning Perspective</title>
-      <link>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Neural Networks and Quantum Field Theory</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</guid>
-      <description></description>
+      <description>&lt;p&gt;Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions. Specifically, I’ll survey well-known machine learning results in supervised learning, reinforcement learning, and generative models, and explain cases where these techniques are already impacting physics and math. In more detail, I will explain some remarkable similarities between neural networks and quantum field theory that might point towards a theoretical understanding of deep learning, and also how an AI agent’s ability to unknot headphones might provide useful in cracking a foundational problem in topology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Universes are Big Data: from geometry, to physics, to ML</title>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</link>
+      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</guid>
+      <description>&lt;p&gt;We briefly overview how historically string theory led theoretical physics first to algebraic/differential geometry, and then to computational geometry, and now to data science. Using the Calabi-Yau landscape - accumulated by the collaboration of physicists, mathematicians and computer scientists over the last 4 decades - as a starting-point and concrete playground, we then launch to review our recent program in machine-learning mathematical structures and address the tantalizing question of how AI helps doing mathematics, ranging from geometry, to representation theory, to combinatorics, to number theory.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -115,7 +109,17 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/vishnujejjala/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/vishnujejjala/</guid>
-      <description></description>
+      <description>&lt;p&gt;In this talk, we motivate string theory as a candidate theory of quantum gravity. The topology and geometry of the extra dimensions predicted by string theory determine aspects of the physics that we see every day. We use machine learning as a tool to probe this physics. We also use machine learning to explore the structure of the simplest quantum field theory. We conclude by giving prospects for the future of machine learning in theoretical physics and mathematics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Baryons from Mesons: A Machine Learning Perspective</title>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</link>
+      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</guid>
+      <description>&lt;p&gt;Quantum chromodynamics (QCD) is the theory of the strong interaction. The fundamental particles of QCD, quarks and gluons, carry colour charge and form colourless bound states at low energies. The hadronic bound states of primary interest to us are the mesons and the baryons. From knowledge of the meson spectrum, we use neural networks and Gaussian processes to predict the masses of baryons with 90.3% and 96.6% accuracy, respectively. These results compare favourably to the constituent quark model. We as well predict the masses of pentaquarks and other exotic hadrons.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

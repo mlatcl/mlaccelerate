@@ -17,7 +17,8 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</guid>
-      <description></description>
+      <description>&lt;p&gt;We briefly overview how historically string theory led theoretical physics first to algebraic/differential geometry, and then to computational geometry, and now to data science. Using the Calabi-Yau landscape - accumulated by the collaboration of physicists, mathematicians and computer scientists over the last 4 decades - as a starting-point and concrete playground, we then launch to review our recent program in machine-learning mathematical structures and address the tantalizing question of how AI helps doing mathematics, ranging from geometry, to representation theory, to combinatorics, to number theory.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
