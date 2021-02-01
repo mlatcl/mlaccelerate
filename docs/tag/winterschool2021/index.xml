@@ -87,20 +87,20 @@
     </item>
     
     <item>
-      <title>Neural Networks and Quantum Field Theory</title>
-      <link>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</guid>
-      <description>&lt;p&gt;Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions. Specifically, I’ll survey well-known machine learning results in supervised learning, reinforcement learning, and generative models, and explain cases where these techniques are already impacting physics and math. In more detail, I will explain some remarkable similarities between neural networks and quantum field theory that might point towards a theoretical understanding of deep learning, and also how an AI agent’s ability to unknot headphones might provide useful in cracking a foundational problem in topology.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Universes are Big Data: from geometry, to physics, to ML</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</guid>
       <description>&lt;p&gt;We briefly overview how historically string theory led theoretical physics first to algebraic/differential geometry, and then to computational geometry, and now to data science. Using the Calabi-Yau landscape - accumulated by the collaboration of physicists, mathematicians and computer scientists over the last 4 decades - as a starting-point and concrete playground, we then launch to review our recent program in machine-learning mathematical structures and address the tantalizing question of how AI helps doing mathematics, ranging from geometry, to representation theory, to combinatorics, to number theory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Triangle of Influence: Bringing Together Physics, Pure Mathematics, and Computer Science</title>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</link>
+      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</guid>
+      <description>&lt;p&gt;Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions. Specifically, I’ll survey well-known machine learning results in supervised learning, reinforcement learning, and generative models, and explain cases where these techniques are already impacting physics and math. In more detail, I will explain some remarkable similarities between neural networks and quantum field theory that might point towards a theoretical understanding of deep learning, and also how an AI agent’s ability to unknot headphones might provide useful in cracking a foundational problem in topology.&lt;/p&gt;
 </description>
     </item>
     
