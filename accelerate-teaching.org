@@ -1,0 +1,792 @@
+#+hugo_base_dir: ../
+#+hugo_auto_set_lastmod: t
+#+hugo_front_matter_format: yaml
+#+hugo_custom_front_matter: :showMeta false :showActions false :comments false :math true
+#+EXCLUDE_TAGS: noexport
+* Science Accelerator
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION:
+  :EXPORT_HUGO_WEIGHT: auto
+  :END:
+** Home Base
+   :PROPERTIES:
+   :EXPORT_HUGO_SECTION: home
+   :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :type widget_page :headless true
+   :END:
+*** Home
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: index
+    :END:
+    
+*** About
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: about
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :title Accelerate Science Winter School
+    :END:
+
+    Artificial intelligence (AI) has the potential to become an engine for scientific discovery across disciplines – from predicting the impact of climate change, to using genetic data to create new healthcare treatments, and from finding new astronomical phenomena to identifying new materials here on Earth.
+
+    To reach the full promise of this exciting methodology scientists and AI researchers need to work together. Only by creating an interface that stimulate knowledge transfer between AI and the sciences will we be able to exploit the benefits of current technology and importantly provide motivation to direct methodological development in AI from scientific questions.
+
+    With this as motivation we created the *Accelerate Science Winter School* with the aim of bridging the gap between early career researchers in the sciences with AI researchers. The first school will took place Virtually between the =2nd and the 4th of February, 2021=. We hope to arrange further schools in the future.
+
+*** Schedule                                                       :noexport:
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: schedule
+    :END:
+**** Tuesday 2nd of February
+
+     The first day of the workshop will focus on a providing a historical account of machine learning and try to provide the basic narrative to the following days. The material provided is aimed at participants without a background in machine learning.
+
+     #+begin_center
+     [[https://cl-cam-ac-uk.zoom.us/j/91594357767?pwd=WXkvQmh5MndxRzRtUkdCQk9OKzlIZz09][Zoom link for the day]]
+     #+end_center
+     
+     #+attr_html: :class zebra-striping sane-table
+     #+attr_css: :width 90% :text-align left
+     | Title                                                              | Speaker            |  Time |
+     |--------------------------------------------------------------------+--------------------+-------|
+     | Welcome and Introductions                                          |                    | 10:00 |
+     | AI for scientific discovery: an introduction to Accelerate Science | Jessica Montgomery | 10:15 |
+     | *Coffee Break*                                                     |                    | 10:45 |
+     | What is Machine Intelligence?                                      | Neil D. Lawrence   | 11:15 |
+     | *Lunch*                                                            |                    | 12:30 |
+     | Machine Learning and the Scientific Principle                      | Carl Henrik Ek     | 13:15 |
+     | [[https://github.com/mlatcl/mlaccelerate/tree/master/bin/winterschool2021][Practical: Statistical Modelling]]                                   | Break-out rooms    | 14:15 |
+     | The Role of Uncertainty                                            | Andreas Damianou   | 15:30 |
+     | Wrap-up Day 1                                                      |                    | 16:30 |
+
+**** Wednesday 3rd of February
+
+     The second day will focus on the application of machine learning to a range of different problems. We will also have talks that are focused on what type of conclusions we can draw from trained models and the dangers of drawing the /wrong/ conclusions.
+
+     #+begin_center
+     [[https://cl-cam-ac-uk.zoom.us/j/98439787911?pwd=L3NXMklpUnhESXg4M0tvaWJaclZCdz09][Zoom link for the day]]
+     #+end_center
+
+     
+     #+attr_css: :width 90%
+     | Title                                                                                                                                                  | Speaker            |  Time | Link |
+     |--------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------+-------+------|
+     | Hierarchical models for insightful machine learning                                                                                                    | Markus Kaiser      | 10:00 |      |
+     | *Coffee Break*                                                                                                                                         |                    | 11:00 |      |
+     | Bayesian Optimisation: Sequential Decision Making Under Uncertainty (TBC)                                                                              | Alessandra Tosi    | 11:30 |      |
+     | *Lunch*                                                                                                                                                |                    | 12:30 |      |
+     | [[https://github.com/mlatcl/mlaccelerate/tree/master/bin/winterschool2021][Practical: Surrogate Models]]                                                                                                                            | Break-out rooms    | 13:15 |      |
+     | Regression, Causality, Statistical Paradoxes and other Fairy Tales                                                                                     | Javier Gonzales    | 14:00 |      |
+     | Inverse Problems in Biology, Deconvolution of Mixed Signals in Spatial Transcriptomics Data, and How to Use Matrix Factorization for Nearly Everything | Aleksandrina Goeva | 15:00 |      |
+     | Wrap-up Day 2                                                                                                                                          |                    | 16:00 |      |
+
+**** Thursday 4th of February
+     The focus on the final day of the winter school will be on machine learning in the context of theoretical physics. The talks will not require knowledge about theoretical physics so in addition to learning about machine learning this day will also give the chance to understand the wonderfully exciting world of modern physics.
+
+     #+begin_center
+     [[https://cl-cam-ac-uk.zoom.us/j/93150995955?pwd=Mm1qa1IxazdVaDhjY2g4ZE1EdllKUT09][Zoom link for the day]]
+     #+end_center
+
+     #+attr_css: :width 90%
+     | Title                                                                                      | Speaker           |  Time | Link |
+     |--------------------------------------------------------------------------------------------+-------------------+-------+------|
+     | Welcome and Introductions                                                                  | Challenger Mishra | 10:00 |      |
+     | Universes are Big Data: from geometry, to physics, to ML                                   | Yang-Hui He       | 10:15 |      |
+     | *Coffee Break*                                                                             |                   | 11:30 |      |
+     | A Triangle of Influence: Bringing Together Physics, Pure Mathematics, and Computer Science | Jim Halverson     | 12:00 |      |
+     | *Lunch*                                                                                    |                   | 13:30 |      |
+     | Machine Learning as a Discovery Tool                                                       | Vishnu Jejjala    | 14:30 |      |
+     | Baryons from Mesons: A Machine Learning Perspective                                        | Challenger Mishra | 16:00 |      |
+     | Round Table                                                                                | Challenger Mishra | 17:00 |      |
+    
+*** Accelerate Science
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: accelerate
+    :END:
+    The Accelerate Programme for Scientific Discovery will advance the frontiers of science through the application of AI. Supported by a donation from [[https://schmidtfutures.com/][Schmidt Futures]], a philanthropic initiative founded by Eric and Wendy Schmidt, the Accelerate Programme will provide young researchers with specialised training in AI techniques, equipping them with the skills they need to use machine learning and AI to power their research.
+
+    Based in the Department for Computer Science and Technology at the University of Cambridge, the Programme will build an interdisciplinary community of researchers working across the University at the interface of machine learning and the sciences. Our work spans:
+
+    - Research ::  Accelerate Science pursues research that applies machine learning to the scientific challenges of the 21st century, generating insights that accelerate scientific progress and creating AI tools that are capable of delivering benefits for science and society. 
+
+    - Education and training :: Through a range of learning and development activities, Accelerate Science is equipping early career researchers and future research leaders with the data science and machine learning skills that will enable them to drive a new wave of scientific progress
+
+    - Engagement :: Accelerate Science will build a community of committed researchers to promote and facilitate the use of machine learning techniques across research domains, with the aim of sharing best practice and building research collaborations that can accelerate the process of scientific discovery.
+
+*** Talks
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: talks
+    :EXPORT_HUGO_FRONT_MATTER_FORMAT: toml
+    :END:
+    #+begin_src toml :front_matter_extra t
+# A Recent and Upcoming Talks section created with the Pages widget.
+# This section displays recent talks from `content/talk/`.
+
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+#headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+#weight = 70  # Order that this section will appear.
+
+#title = "Recent & Upcoming Talks"
+#subtitle = "Accelerate Winter School"
+
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "talk"
+
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 0
+
+  # Choose how many pages you would like to offset by
+  offset = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
+
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true
+
+[advanced]
+ # Custom CSS.
+ css_style = ""
+
+ # CSS class.
+ css_class = ""
+
+    #+end_src    
+*** People
+    :PROPERTIES:
+    :EXPORT_FILE_NAME: people
+    :EXPORT_HUGO_FRONT_MATTER_FORMAT: toml
+    :END:
+    #+begin_src toml :front_matter_extra t
+# A "Meet the Team" section created with the People widget.
+# This section displays people from `content/authors/` which belong to the `user_groups` below.
+
+widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
+active = true  # Activate this widget? true/false
+subtitle = ""
+
+[content]
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups = ["Speaker Winter 2021","Organiser Winter 2021"]
+
+[design]
+  # Show user's social networking links? (true/false)
+  show_social = false
+
+  # Show user's interests? (true/false)
+  show_interests = false
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/media/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
+    #+end_src
+** Talk
+   :PROPERTIES:
+   :EXPORT_HUGO_SECTION: talk
+   :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :type widget_page :headless true :active true
+   :END:
+*** WinterSchool 2021                                      :winterschool2021:
+    :PROPERTIES:
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :event "Accelerator Winter 2021" :all_day false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :location "Virtual"
+    :END:
+**** TEMPLATE                                                      :noexport:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: 
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '()
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "summary"
+     :EXPORT_TITLE: 
+     :END:
+**** Jessica Montgomery                               :winterschool2021:day1:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: jessica
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "" :url_video ""
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date "2020-02-02T10:00:00Z" :date_end "2021-02-02T11:30:00Z" :all_day false
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(jessicamontgomery)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "The Accelerate Programme for Scientific Discovery is a new initiative from Cambridge University’s Department of Computer Science and Technology, which will support researchers across the University to use machine learning to advance their research."
+     :EXPORT_TITLE: AI for scientific discovery: an introduction to Accelerate Science
+     :END:
+
+     Machine learning has the potential to become an engine for scientific discovery across disciplines – from predicting the impact of climate change, to using genetic data to create new healthcare treatments, and from finding new astronomical phenomena to identifying new materials here on Earth. Achieving this potential requires interdisciplinary collaborations that combine scientific insights with expertise in machine learning methods, creating machine learning systems that can be applied to ‘real-world’ problems. The Accelerate Programme for Scientific Discovery is a new initiative from Cambridge University’s Department of Computer Science and Technology, which will support researchers across the University to use machine learning to advance their research. This talk will introduce the thinking behind the Programme and its work.
+     
+**** Neil Lawrence                                    :winterschool2021:day1:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: neil
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides ""
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date "2020-02-02T10:00:00Z" :date_end "2021-02-02T11:30:00Z" :all_day false
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(neillawrence)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "Is machine learning really artificial intelligence?"
+     :EXPORT_TITLE: What is Machine Intelligence?
+     :END:
+
+     {{< youtube id="HG9p8DeeR6k" >}}
+     
+     With breakthroughs in understanding images, translating language, transcribing speech artificial intelligence promises to revolutionise the technological landscape. Machine learning algorithms are able to convert unstructured data into actionable knowledge. With the increasing impact of these technologies, society’s interest is also growing.
+
+     The word intelligence conjures notions of human-like capabilities. But are we really on the cusp of creating machines that match us? We associate intelligence with knowledge, but in this talk I will argue that the true marvel of our intelligence is the way it deals with ignorance.
+
+     Despite the large strides forward we have made, I will argue that we have a long way to go to deliver on the promise of artificial intelligence. And it is a journey that our societies need to take together, not just as computer scientists, but together by rediscovering the interdisciplinary spirit that is required to achieve real scientific progress.
+
+     {{< youtube HG9p8DeeR6k >}}
+     
+**** Carl Henrik                                           :winterschool2021:day1:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: che
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(che)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "slides.pdf" :video "http://carlhenrik.com" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "This talk will focus on how we can formulate beliefs and assumptions mathematically and recover an updated belief from observations. We will reflect on the place machine learning can have in the scientific toolbox."
+     :EXPORT_TITLE: Machine Learning and the Scientific Principle
+     :END:
+
+     {{< youtube id="6q4nDrrMw9s" >}}
+     
+     Machine learning is the science of combining knowledge with data through computation. In this talk we will try to make these concepts mathematically stringent. We will first discuss how we can formulate our knowledge mathematically by building models. Importantly differently from logic machine learning is concerned with knowledge that is uncertain often referred to as beliefs. We will show how we can use probabilities as a mean to quantify our beliefs. In the second part of the talk we will see how we can combine our beliefs with observations and recover an updated belief. We will discuss the interplay between data and beliefs this will become important when choosing which machine learning method to use for different scenarios. 
+
+**** Andreas Damianou                                      :winterschool2021:day1:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: andreasdamianou
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(andreasdamianou)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "slides.pdf" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "Humans understand, reason and act by quantifying not only what they know, but also what they do not know. The parallel to this in the machine learning world is quantification of uncertainty, and its propagation across the various components of our machine learning system. This talk will discuss the different sources of uncertainty arising in a modeling scenario, and the tools we can use to capture this uncertainty and use it as part of our machine learning-assisted reasoning."
+     :EXPORT_TITLE: The Role of Uncertainty in Machine Learning
+     :END:
+
+     {{< youtube id="o5pxRqkKGtE" >}}
+     
+     A machine learning model exploits patterns in the training data to generate an abstraction of the application domain. The knowledge stored inside a model is incomplete, since the model is imperfectly designed and the data fed to it are only a small and possibly biased sample of the full data distribution. Therefore, for many applications it is useful to also quantify the *lack of knowledge* associated with the model. This can help the training of the model itself but it can also transform predictions into probabilistic expectations which can drive more robust decision making. For example, it is very useful to have uncertainty communicated by a machine learning system which analyses patient data to suggest treatments. In this talk, I will discuss the various sources of uncertainty in a modeling scenario, motivate probabilistic methods for quantifying uncertainty, and explain how uncertainty can be used as an essential part of machine learning-assisted reasoning.
+     
+**** Markus Kaiser                                         :winterschool2021:day2:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: markuskaiser
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(markuskaiser)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "slides.pdf" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "Machine learning is a powerful tool to find explanations for data, but not all explanations are created equal. This talk will explore why collaboration with domain experts is critical for the successful application of machine learning in the industrial and scientific domains."
+     :EXPORT_TITLE: Hierarchical models for insightful machine learning
+     :END:
+
+     {{< youtube id="sWKujfDwlq8" >}}
+
+     Machine learning is a powerful tool to find explanations for data, but not all explanations are created equal. This talk will explore why collaboration with domain experts is critical for the successful application of machine learning in the industrial and scientific domains. We will focus on the expert-driven formulation and evaluation of hierarchical models and show how to specify what should be learned from data and how to apply the scientific principle to gain new and semantic insights.
+**** Alessandra Tosi                                       :winterschool2021:day2:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: alessandratosi
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(alessandratosi)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "slides.pdf" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "In this talk we will focus on global optimisation of black-box functions using Bayesian optimisation, an iterative optimisation technique."
+     :EXPORT_TITLE: Bayesian Optimisation: Sequential Decision Making Under Uncertainty
+     :END:
+     {{< youtube id="BfsUI2wqi0Q" >}}
+     
+     Optimisation techniques are widely used to solve problems across any domain. In this talk we will focus on global optimisation of black-box functions using Bayesian optimisation, an iterative optimisation technique. We will explore how Bayesian optimisation can be used beyond the popular application of fine tuning the parameters of complex machine learning models and data science pipelines.
+     
+**** Javier Gonzales                                       :winterschool2021:day2:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: javiergonzales
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(javiergonzales)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "Regression models can be useful in various ways. In this talk we will focus on how we can use them to compute causal effects, so we can augment our toolkit when reasoning about how the world around us works. We will review some basic concepts of causal reasoning and revisit some common statistical misconceptions that can easily avoided with proper causal thinking."
+     :EXPORT_TITLE: Regression, Causality, Statistical Paradoxes and other Fairy Tales
+     :END:
+
+     {{< youtube id="nu2_dByXLm0" >}}
+     
+     Regression models can be useful in various ways. In this talk we will focus on how we can use them to compute causal effects, so we can augment our toolkit when reasoning about how the world around us works. We will review some basic concepts of causal reasoning and revisit some common statistical misconceptions that can easily avoided with proper causal thinking.
+     
+**** Aleksandrina Goeva                                    :winterschool2021:day2:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: aleksandrinagoeva
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(aleksandrinagoeva)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "slides.pdf" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "Inverse problems arise when we want to use data to extract an insight into the inner workings of a system. Such problems are often ill-posed, meaning that there are multiple explanations compatible with the observations and it is therefore necessary to constrain the problem to arrive at a concrete solution."
+     :EXPORT_TITLE: Inverse Problems in Biology, Deconvolution of Mixed Signals in Spatial Transcriptomics Data, and How to Use Matrix Factorization for Nearly Everything
+     :END:
+
+     {{< youtube id="VbpCR9L3Zv4" >}}
+     
+     Inverse problems arise when we want to use data to extract an insight into the inner workings of a system. Such problems are often ill-posed, meaning that there are multiple explanations compatible with the observations and it is therefore necessary to constrain the problem to arrive at a concrete solution. High-throughput high-resolution genome-wide spatial transcriptomics data is a recent breakthrough technology presenting great promise for gaining insights into cellular interactions and tissue-level systems biology. Extracting biologically useful knowledge from this new data modality comes with a novel set of computational challenges. One such challenge is figuring out how much different cell types have contributed to each spatial point measured from the tissue. We will go step-by-step over a simple, intuitive and interpretable solution (manifested by a matrix factorization) that utilizes expert-annotated reference data of cell types to constrain this ill-posed inverse problem.
+               
+**** Yang-Hui He                                           :winterschool2021:day3:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: yanghuihe
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(yanghuihe)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "slides.pdf" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "We briefly overview how historically string theory led theoretical physics first to algebraic/differential geometry, and then to computational geometry, and now to data science."
+     :EXPORT_TITLE: Universes are Big Data: from geometry, to physics, to ML
+     :END:
+
+     {{< youtube id="JBH9Qk96WN8" >}}
+     
+     We briefly overview how historically string theory led theoretical physics first to algebraic/differential geometry, and then to computational geometry, and now to data science. Using the Calabi-Yau landscape - accumulated by the collaboration of physicists, mathematicians and computer scientists over the last 4 decades - as a starting-point and concrete playground, we then launch to review our recent program in machine-learning mathematical structures and address the tantalizing question of how AI helps doing mathematics, ranging from geometry, to representation theory, to combinatorics, to number theory.
+     
+**** Jim Halverson                                         :winterschool2021:day3:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: jimhalverson
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(jimhalverson)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "slides.pdf" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions."
+     :EXPORT_TITLE: "A Triangle of Influence: Bringing Together Physics, Pure Mathematics, and Computer Science"
+     :END:
+
+     {{< youtube id="RLkADPZhIck" >}}
+
+     Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions. Specifically, I’ll survey well-known machine learning results in supervised learning, reinforcement learning, and generative models, and explain cases where these techniques are already impacting physics and math. In more detail, I will explain some remarkable similarities between neural networks and quantum field theory that might point towards a theoretical understanding of deep learning, and also how an AI agent’s ability to unknot headphones might provide useful in cracking a foundational problem in topology.
+     
+**** Vishnu Jejjala                                        :winterschool2021:day3:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: vishnujejjala
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '()
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "slides.pdf" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "In this talk, we motivate string theory as a candidate theory of quantum gravity."
+     :EXPORT_TITLE: Machine Learning as a Discovery Tool
+     :END:
+
+     {{< youtube id="D7lF4BDRyBk" >}}
+     
+     In this talk, we motivate string theory as a candidate theory of quantum gravity. The topology and geometry of the extra dimensions predicted by string theory determine aspects of the physics that we see every day. We use machine learning as a tool to probe this physics. We also use machine learning to explore the structure of the simplest quantum field theory. We conclude by giving prospects for the future of machine learning in theoretical physics and mathematics.
+     
+**** Challenger Mishra                                     :winterschool2021:day3:
+     :PROPERTIES:
+     :EXPORT_HUGO_SECTION*: challengermishra
+     :EXPORT_FILE_NAME: index
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :authors '(challengermishra)
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :url_slides "slides.pdf" :project []
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :date 2020-02-02T10:00:00Z :date_end "2030-06-01T15:00:00Z"
+     :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :summary "Quantum chromodynamics (QCD) is the theory of the strong interaction. The fundamental particles of QCD, quarks and gluons, carry colour charge and form colourless bound states at low energies."
+     :EXPORT_TITLE: Baryons from Mesons: A Machine Learning Perspective
+     :END:
+     Quantum chromodynamics (QCD) is the theory of the strong interaction. The fundamental particles of QCD, quarks and gluons, carry colour charge and form colourless bound states at low energies. The hadronic bound states of primary interest to us are the mesons and the baryons. From knowledge of the meson spectrum, we use neural networks and Gaussian processes to predict the masses of baryons with 90.3% and 96.6% accuracy, respectively. These results compare favourably to the constituent quark model. We as well predict the masses of pentaquarks and other exotic hadrons.
+     
+** Authors
+   :PROPERTIES:
+   :EXPORT_HUGO_SECTION: authors
+   :END:   
+*** TEMPLATE                                                       :noexport:
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*:
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role ""
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "") ("  url" . "")("- name" . "Webpage") ("  url" . ""))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+  - Interests
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+#+end_src
+    
+    I like pizza
+*** Jessica Montgomery
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: jessicamontgomery
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Executive Director, Accelerate Program for Scientific Discovery"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "University of Cambridge") ("  url" . "http://www.cst.cam.ac.uk"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+    #+end_src
+
+    Jessica is currently Executive Director of the Accelerate Programme for Scientific Discovery, a new initiative developing AI tools and collaborations to tackle scientific challenges. She is also Director of the Data Trusts Initiative, a project tackling the actions needed to create trustworthy data governance frameworks.
+
+    Her interests in AI and its consequences for science and society stem from her policy career, in which she worked with parliamentarians, leading researchers and civil society organisations to bring scientific evidence to bear on major policy issues. At the Royal Society, Jessica established and led a wide-ranging programme of policy development, public dialogue and international engagement that explored the frontiers of AI technologies and their implications for society. She worked with senior researchers, policymakers, civil society and industry to identify emerging policy needs and develop policy frameworks to enable safe and rapid deployment of these technologies. In her prior role as a Senior Clerk at the House of Commons, Jessica advised MPs on parliamentary procedure and practice. While advising a number of select committees – including Transport; Business, Innovation, and Skills; Regulatory Reform; and Science and Technology – Jessica managed inquiries into a range of science and policy issues, bringing evidence into the heart of political decision-making.
+    
+*** Neil D. Lawrence
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: neillawrence
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Professor Machine Learning"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "University of Cambridge") ("  url" . "http://www.cst.cam.ac.uk")("- name" . "Webpage") ("  url" . "http://inverseprobability.com/"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+
+# Email for Contact widget or Gravatar
+#email: "che29@cam.ac.uk"
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+    #+end_src
+    
+    Neil Lawrence is the inaugural DeepMind Professor of Machine Learning at the University of Cambridge. He has been working on machine learning models for over 20 years. He recently returned to academia after three years as Director of Machine Learning at Amazon. His main interest is the interaction of machine learning with the physical world. This interest was triggered by deploying machine learning in the African context, where ‘end-to-end’ solutions are normally required. This has inspired new research directions at the interface of machine learning and systems research, this work is funded by a Senior AI Fellowship from the Alan Turing Institute. Neil is also visiting Professor at the University of Sheffield and the co-host of Talking Machines. 
+*** Andreas Damianou
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: andreasdamianou
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Senior Scientist"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "Amazon") ("  url" . "https://www.amazon.com/")("- name" . "Webpage") ("  url" . "https://adamian.github.io/"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+  - Representation Learning
+  - Transfer Learning
+  - Uncertainty Quantification
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+  - Speaker Winter 2021
+    #+end_src
+    I am researching methods for improving the representations learned by machine learning models through the use of uncertainty and information sharing. Uncertainty is needed because real-world data is noisy and our modeling assumptions are imperfect. Complementary, information sharing techniques like transfer learning and multi-view learning allow models to learn from diverse sources. The machine learning tools I am using in my research come from the Bayesian probabilistic or the deep learning domain, but I also investigate methods combining these areas. I have worked in a variety of application areas, such as: multi-modal information fusion, decision making, information retrieval, AI-assisted data science. 
+
+*** Alessandra Tosi
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: alessandratosi
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Senior Research Scientist"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "Mind Foundry") ("  url" . "https://www.mindfoundry.ai/")("- name" . "Webpage") ("  url" . "https://www.robots.ox.ac.uk/~atosi/index.html"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+- Probabilistic Modelling
+- Probabilistic Geometry
+- Auto-ML
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+    #+end_src
+    I work with probabilistic models, particularly with Gaussian processes. My interest lies in Bayesian machine learning, Bayesian optimisation, latent variable models and automatic machine learning (automl). I am also pursuing research aiming at improving human-level interpretability in machine learning models. I have explored the intersection of Probabilistic Modelling and Geometry, with a special attention to the behaviour of metrics in probabilistic geometries. 
+*** Yang-Hui He
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: yanghuihe
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Professor in Mathematics"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "City University of London") ("  url" . "https://www.city.ac.uk")("- name" . "Webpage") ("  url" . "https://www.city.ac.uk/people/academics/yang-hui-he"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+# interests:
+#   - Gaussian Processes
+#   - Probabilistic Numerics
+#   - Reinforcement Learning
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+
+image:
+  image: "avatar.png"
+  caption: "This is a pug"
+  focal_point: Right
+
+    #+end_src
+    Professor Yang-Hui He is a mathematical physicist working on the interface between geometry, number theory and quantum field theory/string theory. Recently, he helped introduce machine-learning into the field of pure mathematics by using AI to help uncover new patterns and raise new conjectures (cf. interview by Science [Vol 365, July, 2019] and by New Scientist [Dec 9 Issue, 2019]).
+
+    Yang studied at Princeton University, where he received his Bachelor of Arts in Physics, with a Certificate in Applied Mathematics and a Certificate in Engineering, Summa cum Laude (Highest Honours, Phi-Beta-Kappa). He then obtained a Certificate in Advanced Mathematics (Tripos) at the University of Cambridge, with Distinction. He went on to receive his PhD in theoretical and mathematical physics from MIT. Yang continued with postdoctoral work in the University of Pennsylvania before joining University of Oxford as the FitzJames Fellow in Mathematics and then the UK STFC Advanced Fellow in theoretical physics.
+*** Javier Gonazales
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: javiergonzales
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Principal Research in Machine Learning"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "Microsoft Research") ("  url" . "https://www.microsoft.com/en-us/research/") ("- name" . "Webpage") ("  url" . "https://javiergonzalezh.github.io/"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+  - Uncertainty Quantification
+  - Sequential Decision Making
+  - Causal Inference
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+    #+end_src
+    My research focuses on the development of probabilistic machine learning methods for uncertainty quantification and data-efficient sequential decision making. I work on the challenges arising when uncertainty of different types (the loss of precision induced by numerical calculations, data errors, model miss-calibration, etc.) need to be be propagated, controlled and reduced in complex pipelines. I am also interested on how causal inference can be used to leverage decision making methods and to improve the understanding of complex systems and processes. As fields of application of my research I am interested in computational biology, health and environmental sciences.
+*** Challenger Mishra
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: challengermishra
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "DECAF Fellow"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "University of Cambridge") ("  url" . "http://www.cst.cam.ac.uk")("- name" . "Webpage") ("  url" . "https://scholar.google.co.uk/citations?user=zGSN6k4AAAAJ&hl=en&oi=ao"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+- Theoretical Physics
+- String theory
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+#+end_src
+
+    Challenger is a theoretical physicist working on the long-standing problem of quantising gravity. Recently, he started to undertake work in Theoretical Machine Learning, in order to exploit its tools to understand String Theory as a problem in big data. As a Rhodes Scholar he has pursued his passion in understanding fundamental physical processes by undertaking doctoral work in String Theory at the Rudolf Peierls Centre for Theoretical Physics, University of Oxford. During his recently completed thesis, he worked on understanding various aspects of complex geometries that feature in String Theory, using the tools of differential and algebraic-geometry. Prior to this, Challenger completed his undergraduate work in Physics from the Indian Institute of Science Education and Research, Kolkata. During his undergraduate years, he worked on a NASA-sponsored project applying stochastic optimisation techniques to analyse data from the proposed gravitaional wave detector, LISA.
+*** Aleksandrina Goeva
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: aleksandrinagoeva
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Postdoctoral Fellow"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "Broad Institute of MIT and Harvard") ("  url" . "https://www.broadinstitute.org/")("- name" . "Webpage") ("  url" . "https://tudaga.github.io/"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+  - Statistics
+  - Machine Learning
+  - Computational Neuroscience
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+    #+end_src
+
+    I am a Postdoctoral Fellow in the Macosko Lab at the Stanley Center for Psychiatric Research within the Broad Institute of MIT and Harvard. I received my PhD in Mathematics and Statistics at Boston University, where I worked on complexity penalized methods with applications to modeling queueing systems, information retrieval from text, and network inference. I’m now focused on representation learning for single-cell RNA-seq and spatial data, driven by questions in neuroscience. I also co-organize the [[https://www.broadinstitute.org/mia][Models, Inference & Algorithms initiative]].
+
+*** Vishnu Jejjala
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: vishnujejjala
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false :highlight_name false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Chair: Theoretical Particle Cosmology"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "Mandelstam Institute for Theoretical Physics") ("  url" . "http://neo.phys.wits.ac.za/")("- name" . "Webpage") ("  url" . "http://neo.phys.wits.ac.za/members/vishnu-jejjala"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+  - String Theory / M-Theory
+  - Quantum Field Theory
+  - Cosmology
+  - String Phenomenology
+  - Condensed Matter Systems
+  - Mathematical Physics
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+#+end_src
+    String theory is the leading candidate for a theory of quantum gravity. My interests are broad, but focus on bringing string theory into contact with the real world. In particular, motivated by the AdS/CFT correspondence and the principle of holography, I strive to formulate the theory of statistical mechanics that underlies gravitational thermodynamics. Black holes supply an important theoretical laboratory for this research. I want to apply the technology developed in the black hole context to the resolution of spacetime singularities, especially in time dependent, cosmological backgrounds. I aim to understand holography and the emergence of spacetime in general settings. Another major thrust of my research is to explain how the Standard Model of particle physics descends from a fundamental theory. I seek to relate geometrical aspects of the vacuum space of quantum field theories to string theory and use geometric structure as a practical tool for particle phenomenology. Recently, I have been investigating the constraints on string compactifications stemming from cosmology and particle theory inputs. As well, I work on supersymmetric field theories in four dimensions and various problems in mathematical physics.
+*** Jim Halverson
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: jimhalverson
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Assistant Professor of Physics"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "Northeastern University") ("  url" . "https://www.northeastern.edu/")("- name" . "Webpage") ("  url" . "http://www.jhhalverson.com/"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+  - String Theory
+  - Particle Physics
+  - Cosmology
+  - Mathematics
+  - Deep Learning
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+#+end_src
+
+    His research is at some of the interfaces between string theory, particle physics, cosmology, mathematics, and deep learning. He is particularly interested in the string landscape and its implications for particle physics and cosmology beyond their standard models. These implications often follow from the structure of extra-dimensional geometries, of which there are many possibilities. Halverson’s research therefore requires importing techniques from mathematics and computer science.
+
+    Recently, Halverson’s interest in the interface of physics and deep learning has continued to grow. To that end, he is a co-PI and serves on the institute board of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions ([[https://iaifi.org/][ IAIFI]] ) and co-organizes [[http://www.physicsmeetsml.org/][Physics ∩ ML]].
+
+*** Markus Kaiser
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: markuskaiser
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Postdoctoral Researcher Machine Learning"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "University of Cambridge") ("  url" . "https://www.cst.cam.ac.uk/")("- name" . "Webpage") ("  url" . "https://mrksr.de/"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests: 
+  - Bayesian machine learning
+  - Gaussian processes
+  - Deep GPs
+  - Scalable variational inference
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+
+#+end_src
+
+My research focuses on encoding expert knowledge into hierarchical probabilistic models to facilitate inference and specify what to learn from data. Models become more data efficient and more trustworthy if the result of learning is a collection of expert-interpretable components. In my work, I explore how Bayesian non-parametric models can be composed to enforce abstract constraints, yield principled reasoning under uncertainty, and enable scalable and reliable inference.
+
+*** Carl Henrik Ek
+    :PROPERTIES:
+    :EXPORT_HUGO_SECTION*: che
+    :EXPORT_FILE_NAME: _index
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :active true :superuser false
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :role "Senior Lecturer Machine Learning"
+    :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :organizations '(("- name" . "University of Cambridge") ("  url" . "http://www.cst.cam.ac.uk")("- name" . "Webpage") ("  url" . "http://carlhenrik.com"))
+    :END:
+    #+begin_src yaml :front_matter_extra t
+# Interests to show in About widget
+interests:
+  - Gaussian Processes
+  - Probabilistic Numerics
+  - Reinforcement Learning
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- Speaker Winter 2021
+
+image:
+  image: "avatar.png"
+  caption: "This is a pug"
+  focal_point: Right
+
+    #+end_src
+    I am a Senior Lecturer in the Computer Laboratory at the University of Cambridge. The science of machine learning is concerned with how to formulate assumptions into mathematics (modelling) and how to related them to observed data (inference). My research focus spans both these areas, in specific I am interested in how we can specify data efficient and interpretable assumptions that allows us to learn from small amounts of data.
+* COMMENT Local Variables                                           :ARCHIVE:
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
