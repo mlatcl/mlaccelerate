@@ -17,7 +17,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/che/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/che/</guid>
-      <description>&lt;p&gt;Machine learning is the science of combining knowledge with data through computation. In this talk we will try to make these concepts mathematically stringent. We will first discuss how we can formulate our knowledge mathematically by building models. Importantly differently from logic machine learning is concerned with knowledge that is uncertain often referred to as beliefs. We will show how we can use probabilities as a mean to quantify our beliefs. In the second part of the talk we will see how we can combine our beliefs with observations and recover an updated belief. We will discuss the interplay between data and beliefs this will become important when choosing which machine learning method to use for different scenarios.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6q4nDrrMw9s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Machine learning is the science of combining knowledge with data through computation. In this talk we will try to make these concepts mathematically stringent. We will first discuss how we can formulate our knowledge mathematically by building models. Importantly differently from logic machine learning is concerned with knowledge that is uncertain often referred to as beliefs. We will show how we can use probabilities as a mean to quantify our beliefs. In the second part of the talk we will see how we can combine our beliefs with observations and recover an updated belief. We will discuss the interplay between data and beliefs this will become important when choosing which machine learning method to use for different scenarios.&lt;/p&gt;
 </description>
     </item>
     

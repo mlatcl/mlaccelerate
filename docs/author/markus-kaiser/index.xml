@@ -17,7 +17,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/markuskaiser/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/markuskaiser/</guid>
-      <description>&lt;p&gt;Machine learning is a powerful tool to find explanations for data, but not all explanations are created equal. This talk will explore why collaboration with domain experts is critical for the successful application of machine learning in the industrial and scientific domains. We will focus on the expert-driven formulation and evaluation of hierarchical models and show how to specify what should be learned from data and how to apply the scientific principle to gain new and semantic insights.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/sWKujfDwlq8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Machine learning is a powerful tool to find explanations for data, but not all explanations are created equal. This talk will explore why collaboration with domain experts is critical for the successful application of machine learning in the industrial and scientific domains. We will focus on the expert-driven formulation and evaluation of hierarchical models and show how to specify what should be learned from data and how to apply the scientific principle to gain new and semantic insights.&lt;/p&gt;
 </description>
     </item>
     

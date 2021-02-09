@@ -17,7 +17,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</guid>
-      <description>&lt;p&gt;Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions. Specifically, I’ll survey well-known machine learning results in supervised learning, reinforcement learning, and generative models, and explain cases where these techniques are already impacting physics and math. In more detail, I will explain some remarkable similarities between neural networks and quantum field theory that might point towards a theoretical understanding of deep learning, and also how an AI agent’s ability to unknot headphones might provide useful in cracking a foundational problem in topology.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RLkADPZhIck&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions. Specifically, I’ll survey well-known machine learning results in supervised learning, reinforcement learning, and generative models, and explain cases where these techniques are already impacting physics and math. In more detail, I will explain some remarkable similarities between neural networks and quantum field theory that might point towards a theoretical understanding of deep learning, and also how an AI agent’s ability to unknot headphones might provide useful in cracking a foundational problem in topology.&lt;/p&gt;
 </description>
     </item>
     

@@ -17,7 +17,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/javiergonzales/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/javiergonzales/</guid>
-      <description>&lt;p&gt;Regression models can be useful in various ways. In this talk we will focus on how we can use them to compute causal effects, so we can augment our toolkit when reasoning about how the world around us works. We will review some basic concepts of causal reasoning and revisit some common statistical misconceptions that can easily avoided with proper causal thinking.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/nu2%5c_dByXLm0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Regression models can be useful in various ways. In this talk we will focus on how we can use them to compute causal effects, so we can augment our toolkit when reasoning about how the world around us works. We will review some basic concepts of causal reasoning and revisit some common statistical misconceptions that can easily avoided with proper causal thinking.&lt;/p&gt;
 </description>
     </item>
     

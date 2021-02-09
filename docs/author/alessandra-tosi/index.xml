@@ -19,7 +19,7 @@
       <guid>https://mlatcl.github.io/mlaccelerate/talk/alessandratosi/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/uAjEUEbmCJw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;APA&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BfsUI2wqi0Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Optimisation techniques are widely used to solve problems across any domain. In this talk we will focus on global optimisation of black-box functions using Bayesian optimisation, an iterative optimisation technique. We will explore how Bayesian optimisation can be used beyond the popular application of fine tuning the parameters of complex machine learning models and data science pipelines.&lt;/p&gt;

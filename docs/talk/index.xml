@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks | Science Accelerator</title>
+    <title>Talk | Science Accelerator</title>
     <link>https://mlatcl.github.io/mlaccelerate/talk/</link>
       <atom:link href="https://mlatcl.github.io/mlaccelerate/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Sun, 02 Feb 2020 10:00:00 +0000</lastBuildDate>
+    <description>Talk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021</copyright>
     <image>
       <url>https://mlatcl.github.io/mlaccelerate/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Talks</title>
+      <title>Talk</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/</link>
     </image>
     
@@ -26,7 +26,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/neil/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/neil/</guid>
-      <description>&lt;p&gt;With breakthroughs in understanding images, translating language, transcribing speech artificial intelligence promises to revolutionise the technological landscape. Machine learning algorithms are able to convert unstructured data into actionable knowledge. With the increasing impact of these technologies, society’s interest is also growing.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/HG9p8DeeR6k&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;With breakthroughs in understanding images, translating language, transcribing speech artificial intelligence promises to revolutionise the technological landscape. Machine learning algorithms are able to convert unstructured data into actionable knowledge. With the increasing impact of these technologies, society’s interest is also growing.&lt;/p&gt;
 &lt;p&gt;The word intelligence conjures notions of human-like capabilities. But are we really on the cusp of creating machines that match us? We associate intelligence with knowledge, but in this talk I will argue that the true marvel of our intelligence is the way it deals with ignorance.&lt;/p&gt;
 &lt;p&gt;Despite the large strides forward we have made, I will argue that we have a long way to go to deliver on the promise of artificial intelligence. And it is a journey that our societies need to take together, not just as computer scientists, but together by rediscovering the interdisciplinary spirit that is required to achieve real scientific progress.&lt;/p&gt;
 
@@ -42,7 +47,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/che/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/che/</guid>
-      <description>&lt;p&gt;Machine learning is the science of combining knowledge with data through computation. In this talk we will try to make these concepts mathematically stringent. We will first discuss how we can formulate our knowledge mathematically by building models. Importantly differently from logic machine learning is concerned with knowledge that is uncertain often referred to as beliefs. We will show how we can use probabilities as a mean to quantify our beliefs. In the second part of the talk we will see how we can combine our beliefs with observations and recover an updated belief. We will discuss the interplay between data and beliefs this will become important when choosing which machine learning method to use for different scenarios.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6q4nDrrMw9s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Machine learning is the science of combining knowledge with data through computation. In this talk we will try to make these concepts mathematically stringent. We will first discuss how we can formulate our knowledge mathematically by building models. Importantly differently from logic machine learning is concerned with knowledge that is uncertain often referred to as beliefs. We will show how we can use probabilities as a mean to quantify our beliefs. In the second part of the talk we will see how we can combine our beliefs with observations and recover an updated belief. We will discuss the interplay between data and beliefs this will become important when choosing which machine learning method to use for different scenarios.&lt;/p&gt;
 </description>
     </item>
     
@@ -51,7 +61,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</guid>
-      <description>&lt;p&gt;A machine learning model exploits patterns in the training data to generate an abstraction of the application domain. The knowledge stored inside a model is incomplete, since the model is imperfectly designed and the data fed to it are only a small and possibly biased sample of the full data distribution. Therefore, for many applications it is useful to also quantify the &lt;strong&gt;lack of knowledge&lt;/strong&gt; associated with the model. This can help the training of the model itself but it can also transform predictions into probabilistic expectations which can drive more robust decision making. For example, it is very useful to have uncertainty communicated by a machine learning system which analyses patient data to suggest treatments. In this talk, I will discuss the various sources of uncertainty in a modeling scenario, motivate probabilistic methods for quantifying uncertainty, and explain how uncertainty can be used as an essential part of machine learning-assisted reasoning.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/o5pxRqkKGtE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A machine learning model exploits patterns in the training data to generate an abstraction of the application domain. The knowledge stored inside a model is incomplete, since the model is imperfectly designed and the data fed to it are only a small and possibly biased sample of the full data distribution. Therefore, for many applications it is useful to also quantify the &lt;strong&gt;lack of knowledge&lt;/strong&gt; associated with the model. This can help the training of the model itself but it can also transform predictions into probabilistic expectations which can drive more robust decision making. For example, it is very useful to have uncertainty communicated by a machine learning system which analyses patient data to suggest treatments. In this talk, I will discuss the various sources of uncertainty in a modeling scenario, motivate probabilistic methods for quantifying uncertainty, and explain how uncertainty can be used as an essential part of machine learning-assisted reasoning.&lt;/p&gt;
 </description>
     </item>
     
@@ -60,7 +75,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/markuskaiser/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/markuskaiser/</guid>
-      <description>&lt;p&gt;Machine learning is a powerful tool to find explanations for data, but not all explanations are created equal. This talk will explore why collaboration with domain experts is critical for the successful application of machine learning in the industrial and scientific domains. We will focus on the expert-driven formulation and evaluation of hierarchical models and show how to specify what should be learned from data and how to apply the scientific principle to gain new and semantic insights.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/sWKujfDwlq8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Machine learning is a powerful tool to find explanations for data, but not all explanations are created equal. This talk will explore why collaboration with domain experts is critical for the successful application of machine learning in the industrial and scientific domains. We will focus on the expert-driven formulation and evaluation of hierarchical models and show how to specify what should be learned from data and how to apply the scientific principle to gain new and semantic insights.&lt;/p&gt;
 </description>
     </item>
     
@@ -71,7 +91,7 @@
       <guid>https://mlatcl.github.io/mlaccelerate/talk/alessandratosi/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/uAjEUEbmCJw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;APA&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BfsUI2wqi0Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Optimisation techniques are widely used to solve problems across any domain. In this talk we will focus on global optimisation of black-box functions using Bayesian optimisation, an iterative optimisation technique. We will explore how Bayesian optimisation can be used beyond the popular application of fine tuning the parameters of complex machine learning models and data science pipelines.&lt;/p&gt;
@@ -83,7 +103,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/javiergonzales/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/javiergonzales/</guid>
-      <description>&lt;p&gt;Regression models can be useful in various ways. In this talk we will focus on how we can use them to compute causal effects, so we can augment our toolkit when reasoning about how the world around us works. We will review some basic concepts of causal reasoning and revisit some common statistical misconceptions that can easily avoided with proper causal thinking.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/nu2%5c_dByXLm0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Regression models can be useful in various ways. In this talk we will focus on how we can use them to compute causal effects, so we can augment our toolkit when reasoning about how the world around us works. We will review some basic concepts of causal reasoning and revisit some common statistical misconceptions that can easily avoided with proper causal thinking.&lt;/p&gt;
 </description>
     </item>
     
@@ -92,7 +117,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/aleksandrinagoeva/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/aleksandrinagoeva/</guid>
-      <description>&lt;p&gt;Inverse problems arise when we want to use data to extract an insight into the inner workings of a system. Such problems are often ill-posed, meaning that there are multiple explanations compatible with the observations and it is therefore necessary to constrain the problem to arrive at a concrete solution. High-throughput high-resolution genome-wide spatial transcriptomics data is a recent breakthrough technology presenting great promise for gaining insights into cellular interactions and tissue-level systems biology. Extracting biologically useful knowledge from this new data modality comes with a novel set of computational challenges. One such challenge is figuring out how much different cell types have contributed to each spatial point measured from the tissue. We will go step-by-step over a simple, intuitive and interpretable solution (manifested by a matrix factorization) that utilizes expert-annotated reference data of cell types to constrain this ill-posed inverse problem.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/VbpCR9L3Zv4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Inverse problems arise when we want to use data to extract an insight into the inner workings of a system. Such problems are often ill-posed, meaning that there are multiple explanations compatible with the observations and it is therefore necessary to constrain the problem to arrive at a concrete solution. High-throughput high-resolution genome-wide spatial transcriptomics data is a recent breakthrough technology presenting great promise for gaining insights into cellular interactions and tissue-level systems biology. Extracting biologically useful knowledge from this new data modality comes with a novel set of computational challenges. One such challenge is figuring out how much different cell types have contributed to each spatial point measured from the tissue. We will go step-by-step over a simple, intuitive and interpretable solution (manifested by a matrix factorization) that utilizes expert-annotated reference data of cell types to constrain this ill-posed inverse problem.&lt;/p&gt;
 </description>
     </item>
     
@@ -101,7 +131,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</guid>
-      <description>&lt;p&gt;We briefly overview how historically string theory led theoretical physics first to algebraic/differential geometry, and then to computational geometry, and now to data science. Using the Calabi-Yau landscape - accumulated by the collaboration of physicists, mathematicians and computer scientists over the last 4 decades - as a starting-point and concrete playground, we then launch to review our recent program in machine-learning mathematical structures and address the tantalizing question of how AI helps doing mathematics, ranging from geometry, to representation theory, to combinatorics, to number theory.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/JBH9Qk96WN8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We briefly overview how historically string theory led theoretical physics first to algebraic/differential geometry, and then to computational geometry, and now to data science. Using the Calabi-Yau landscape - accumulated by the collaboration of physicists, mathematicians and computer scientists over the last 4 decades - as a starting-point and concrete playground, we then launch to review our recent program in machine-learning mathematical structures and address the tantalizing question of how AI helps doing mathematics, ranging from geometry, to representation theory, to combinatorics, to number theory.&lt;/p&gt;
 </description>
     </item>
     
@@ -110,16 +145,12 @@
       <link>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</link>
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</guid>
-      <description>&lt;p&gt;Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions. Specifically, I’ll survey well-known machine learning results in supervised learning, reinforcement learning, and generative models, and explain cases where these techniques are already impacting physics and math. In more detail, I will explain some remarkable similarities between neural networks and quantum field theory that might point towards a theoretical understanding of deep learning, and also how an AI agent’s ability to unknot headphones might provide useful in cracking a foundational problem in topology.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Machine Learning as a Discovery Tool</title>
-      <link>https://mlatcl.github.io/mlaccelerate/talk/vishnujejjala/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>https://mlatcl.github.io/mlaccelerate/talk/vishnujejjala/</guid>
-      <description>&lt;p&gt;In this talk, we motivate string theory as a candidate theory of quantum gravity. The topology and geometry of the extra dimensions predicted by string theory determine aspects of the physics that we see every day. We use machine learning as a tool to probe this physics. We also use machine learning to explore the structure of the simplest quantum field theory. We conclude by giving prospects for the future of machine learning in theoretical physics and mathematics.&lt;/p&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RLkADPZhIck&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Recent advances in machine learning have begun creating new bridges to physics and mathematics that have traditionally existed between the latter two. Given this progress, I will speculate about where we are and where things might be headed, including through the recently launched NSF AI Institute for Artificial Intelligence and Fundamental Interactions. Specifically, I’ll survey well-known machine learning results in supervised learning, reinforcement learning, and generative models, and explain cases where these techniques are already impacting physics and math. In more detail, I will explain some remarkable similarities between neural networks and quantum field theory that might point towards a theoretical understanding of deep learning, and also how an AI agent’s ability to unknot headphones might provide useful in cracking a foundational problem in topology.&lt;/p&gt;
 </description>
     </item>
     
@@ -129,6 +160,20 @@
       <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</guid>
       <description>&lt;p&gt;Quantum chromodynamics (QCD) is the theory of the strong interaction. The fundamental particles of QCD, quarks and gluons, carry colour charge and form colourless bound states at low energies. The hadronic bound states of primary interest to us are the mesons and the baryons. From knowledge of the meson spectrum, we use neural networks and Gaussian processes to predict the masses of baryons with 90.3% and 96.6% accuracy, respectively. These results compare favourably to the constituent quark model. We as well predict the masses of pentaquarks and other exotic hadrons.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning as a Discovery Tool</title>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/vishnujejjala/</link>
+      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/vishnujejjala/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/D7lF4BDRyBk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In this talk, we motivate string theory as a candidate theory of quantum gravity. The topology and geometry of the extra dimensions predicted by string theory determine aspects of the physics that we see every day. We use machine learning as a tool to probe this physics. We also use machine learning to explore the structure of the simplest quantum field theory. We conclude by giving prospects for the future of machine learning in theoretical physics and mathematics.&lt;/p&gt;
 </description>
     </item>
     
