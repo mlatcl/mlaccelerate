@@ -5,7 +5,7 @@
     <link>https://mlatcl.github.io/mlaccelerate/tag/day1/</link>
       <atom:link href="https://mlatcl.github.io/mlaccelerate/tag/day1/index.xml" rel="self" type="application/rss+xml" />
     <description>day1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Sun, 02 Feb 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Tue, 02 Feb 2021 15:30:00 +0000</lastBuildDate>
     <image>
       <url>https://mlatcl.github.io/mlaccelerate/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>day1</title>
@@ -15,7 +15,7 @@
     <item>
       <title>AI for scientific discovery: an introduction to Accelerate Science</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/jessica/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 10:15:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/jessica/</guid>
       <description>&lt;p&gt;Machine learning has the potential to become an engine for scientific discovery across disciplines – from predicting the impact of climate change, to using genetic data to create new healthcare treatments, and from finding new astronomical phenomena to identifying new materials here on Earth. Achieving this potential requires interdisciplinary collaborations that combine scientific insights with expertise in machine learning methods, creating machine learning systems that can be applied to ‘real-world’ problems. The Accelerate Programme for Scientific Discovery is a new initiative from Cambridge University’s Department of Computer Science and Technology, which will support researchers across the University to use machine learning to advance their research. This talk will introduce the thinking behind the Programme and its work.&lt;/p&gt;
 </description>
@@ -24,7 +24,7 @@
     <item>
       <title>What is Machine Intelligence?</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/neil/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 11:15:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/neil/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -34,18 +34,13 @@
 &lt;p&gt;With breakthroughs in understanding images, translating language, transcribing speech artificial intelligence promises to revolutionise the technological landscape. Machine learning algorithms are able to convert unstructured data into actionable knowledge. With the increasing impact of these technologies, society’s interest is also growing.&lt;/p&gt;
 &lt;p&gt;The word intelligence conjures notions of human-like capabilities. But are we really on the cusp of creating machines that match us? We associate intelligence with knowledge, but in this talk I will argue that the true marvel of our intelligence is the way it deals with ignorance.&lt;/p&gt;
 &lt;p&gt;Despite the large strides forward we have made, I will argue that we have a long way to go to deliver on the promise of artificial intelligence. And it is a journey that our societies need to take together, not just as computer scientists, but together by rediscovering the interdisciplinary spirit that is required to achieve real scientific progress.&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/HG9p8DeeR6k&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
 </description>
     </item>
     
     <item>
       <title>Machine Learning and the Scientific Principle</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/che/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 13:15:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/che/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -59,7 +54,7 @@
     <item>
       <title>The Role of Uncertainty in Machine Learning</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Feb 2021 15:30:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/andreasdamianou/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;

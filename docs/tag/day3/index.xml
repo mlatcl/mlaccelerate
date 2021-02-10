@@ -5,7 +5,7 @@
     <link>https://mlatcl.github.io/mlaccelerate/tag/day3/</link>
       <atom:link href="https://mlatcl.github.io/mlaccelerate/tag/day3/index.xml" rel="self" type="application/rss+xml" />
     <description>day3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Sun, 02 Feb 2020 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Thu, 04 Feb 2021 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mlatcl.github.io/mlaccelerate/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>day3</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Universes are Big Data: from geometry, to physics, to ML</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Feb 2021 10:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/yanghuihe/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -29,7 +29,7 @@
     <item>
       <title>A Triangle of Influence: Bringing Together Physics, Pure Mathematics, and Computer Science</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Feb 2021 12:00:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/jimhalverson/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -41,18 +41,9 @@
     </item>
     
     <item>
-      <title>Baryons from Mesons: A Machine Learning Perspective</title>
-      <link>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
-      <guid>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</guid>
-      <description>&lt;p&gt;Quantum chromodynamics (QCD) is the theory of the strong interaction. The fundamental particles of QCD, quarks and gluons, carry colour charge and form colourless bound states at low energies. The hadronic bound states of primary interest to us are the mesons and the baryons. From knowledge of the meson spectrum, we use neural networks and Gaussian processes to predict the masses of baryons with 90.3% and 96.6% accuracy, respectively. These results compare favourably to the constituent quark model. We as well predict the masses of pentaquarks and other exotic hadrons.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Machine Learning as a Discovery Tool</title>
       <link>https://mlatcl.github.io/mlaccelerate/talk/vishnujejjala/</link>
-      <pubDate>Sun, 02 Feb 2020 10:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Feb 2021 14:30:00 +0000</pubDate>
       <guid>https://mlatcl.github.io/mlaccelerate/talk/vishnujejjala/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -60,6 +51,15 @@
 &lt;/div&gt;
 
 &lt;p&gt;In this talk, we motivate string theory as a candidate theory of quantum gravity. The topology and geometry of the extra dimensions predicted by string theory determine aspects of the physics that we see every day. We use machine learning as a tool to probe this physics. We also use machine learning to explore the structure of the simplest quantum field theory. We conclude by giving prospects for the future of machine learning in theoretical physics and mathematics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Baryons from Mesons: A Machine Learning Perspective</title>
+      <link>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</link>
+      <pubDate>Thu, 04 Feb 2021 16:00:00 +0000</pubDate>
+      <guid>https://mlatcl.github.io/mlaccelerate/talk/challengermishra/</guid>
+      <description>&lt;p&gt;Quantum chromodynamics (QCD) is the theory of the strong interaction. The fundamental particles of QCD, quarks and gluons, carry colour charge and form colourless bound states at low energies. The hadronic bound states of primary interest to us are the mesons and the baryons. From knowledge of the meson spectrum, we use neural networks and Gaussian processes to predict the masses of baryons with 90.3% and 96.6% accuracy, respectively. These results compare favourably to the constituent quark model. We as well predict the masses of pentaquarks and other exotic hadrons.&lt;/p&gt;
 </description>
     </item>
     
